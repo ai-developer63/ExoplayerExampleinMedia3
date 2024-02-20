@@ -36,7 +36,7 @@ Contributing
 We welcome contributions! If you'd like to contribute to this project, please follow our contributing guidelines.
 
 Contact
-For any questions or feedback, feel free to reach out to us at [your-email@example.com].
+For any questions or feedback, feel free to reach out to us at Comment Section of Git
 
 Acknowledgments
 We'd like to express our gratitude to the ExoPlayer community and other contributors who have made this project possible.
